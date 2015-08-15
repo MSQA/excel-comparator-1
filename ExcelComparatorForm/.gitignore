@@ -2,7 +2,6 @@
 /target/
 /build/
 /logs/
-/src/
 /.settings/
 /.classpath
 /.project
